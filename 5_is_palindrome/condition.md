@@ -28,7 +28,7 @@ True
 
 ```
 Входные данные:
-'not a palindrome'
+'Because I am Batman'
 
 Выходные данные:
 False
