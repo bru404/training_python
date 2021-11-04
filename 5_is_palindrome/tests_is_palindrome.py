@@ -10,7 +10,7 @@ def test_is_palindrome() -> None:
     expected = True
     assert actual == expected
 
-    actual = is_palindrome('not a palindrome')
+    actual = is_palindrome('Because I am Batman')
     expected = False
     assert actual == expected
 
