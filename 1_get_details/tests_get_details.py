@@ -9,4 +9,4 @@ def test_get_details() -> None:
                'Index - 3 | Element - 4\n'\
                'Index - 4 | Element - 5\n'\
                'Index - 5 | Element - 6\n'
-    assert actual == expected
+    assert actual == expected, 'Неправильный формат выходных данных, либо неверное решение'

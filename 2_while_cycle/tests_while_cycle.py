@@ -9,4 +9,4 @@ def test_while_cycle() -> None:
                '4\n' \
                '5\n' \
                '6\n'
-    assert actual == expected
+    assert actual == expected, 'Неправильный формат выходных данных, либо неверное решение'
