@@ -1,7 +1,7 @@
 from solution import get_details
 
 
-def test_get_details():
+def test_get_details() -> None:
     actual = get_details([1, 2, 3, 4, 5, 6])
     expected = 'Index - 0 | Element - 1\n'\
                'Index - 1 | Element - 2\n'\
