@@ -1,4 +1,4 @@
-# Teaching Python
+# Training Python
 
 ### Что ты такое?
 
